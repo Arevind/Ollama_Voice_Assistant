@@ -108,7 +108,7 @@ response = llm.invoke(prompt.format(chat_history=chat_history_text, question=que
 
 ## 🏅 Credits
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Arevind Mohan
 
 Special thanks to the creators of **Langchain**, **Ollama**, and **SpeechRecognition**!
 
